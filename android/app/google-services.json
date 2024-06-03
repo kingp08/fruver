@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "916417444941",
+    "project_id": "fruver-95e21",
+    "storage_bucket": "fruver-95e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916417444941:android:29845b771274ce90c6b004",
+        "android_client_info": {
+          "package_name": "com.fruver.fruver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2GJVglLLAR6-FV45mBzWKm6g_rQuF-qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
